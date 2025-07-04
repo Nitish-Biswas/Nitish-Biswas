@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitish-biswas&" alt="nitish-biswas" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nitish_biswas1?theme=dark&show_rank=False&font=Alice&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nitish_biswas1?theme=dark&show_rank=False&font=Alice&ext=contest&radius=20)
