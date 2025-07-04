@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitish-biswas&show_icons=true&locale=en" alt="nitish-biswas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitish-biswas&" alt="nitish-biswas" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/nitish_biswas1?theme=dark&show_rank=False&font=Alice&ext=contest)
