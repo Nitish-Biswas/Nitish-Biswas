@@ -25,3 +25,9 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nitish_biswas1?theme=dark&show_rank=False&font=Alice&ext=contest&radius=20)
+
+## GitHub Stats:
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=@Nitish-Biswas&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats"/>
+</div>
+<br/>
