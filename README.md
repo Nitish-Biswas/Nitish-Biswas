@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitish Biswas</h1>
 <h3 align="center">A passionate Software developer from India with an interest in AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish-biswas&label=Profile%20views&color=0e75b6&style=flat" alt="nitish-biswas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitish-Biswas&style=for-the-badge" alt="nitish-biswas" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/nitish_biswas1" target="blank"><img src="https://img.shields.io/twitter/follow/nitish_biswas1?logo=twitter&style=for-the-badge" alt="nitish_biswas1" /></a> </p>
